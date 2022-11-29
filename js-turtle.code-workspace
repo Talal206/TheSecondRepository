@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../js-turtle"
+		},
+		{
+			"name": "js-turtle",
+			"path": "../../../js-turtle"
+		}
+	],
+	"settings": {}
+}
